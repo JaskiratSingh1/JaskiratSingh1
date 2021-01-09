@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#Hello! I'm Jazz
+
+I'm a 3rd year Electrical Nano-engineering student at the University of Alberta. 
+
+Currently working on home automation and wearable technology projects using embedded systems. 
+
