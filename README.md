@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello! I'm Jazz :)
 
 <!--
 **JaskiratSingh1/JaskiratSingh1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#Hello! I'm Jazz
-
 I'm a 3rd year Electrical Nano-engineering student at the University of Alberta. 
 
 Currently working on home automation and wearable technology projects using embedded systems. 
-
