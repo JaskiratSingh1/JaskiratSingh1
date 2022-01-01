@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a 3rd year Electrical Nano-engineering student at the University of Alberta. 
+I'm a 4th year Electrical Nano-engineering student at the University of Alberta. 
 
 Currently working on home automation and wearable technology projects using embedded systems. 
