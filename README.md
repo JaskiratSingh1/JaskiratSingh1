@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a 4th year Electrical Nano-engineering student at the University of Alberta. 
-
-Currently working on home automation and wearable technology projects using embedded systems. 
+I'm a Master's student at the University of Calgary studying software engineering!
